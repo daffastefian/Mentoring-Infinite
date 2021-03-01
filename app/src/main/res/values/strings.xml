@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Week One</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="home">Home</string>
+    <string name="infinite_android_mentoring">Infinite Android Mentoring</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="title">Title</string>
+    <string name="status">Status</string>
+    <string name="completed">Completed</string>
+    <string name="not_completed">Not Completed</string>
+    <string name="user_id">User Id</string>
+    <string name="detail_todo">Detail Todo #</string>
+</resources>
